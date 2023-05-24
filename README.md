@@ -1,3 +1,4 @@
+![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 # Product-Management-Nanodegree
 Udacity Product Management Nanodegree 4-part projects
 This repository consists of all projects done as part of Udacity's Product Manager nanodegree. 
