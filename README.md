@@ -1,4 +1,5 @@
-![picture alt](product management certifcate udacity_page-0001.jpg "Title is optional")
+![product management certifcate udacity_page-0001](https://github.com/coded-guy/Product-Management-Nanodegree/assets/42824183/f2910497-35c2-4c68-8460-2ffa5c93c5ce)
+
 # Product-Management-Nanodegree
 Udacity Product Management Nanodegree 4-part projects
 This repository consists of all projects done as part of Udacity's Product Manager nanodegree. 
